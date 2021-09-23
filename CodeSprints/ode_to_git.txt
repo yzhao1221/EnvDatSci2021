@@ -58,15 +58,4 @@ One two three four five
 Follow the steps
 of the GIT cookbook
 and make your fussy cake
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
