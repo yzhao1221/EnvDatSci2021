@@ -3,6 +3,9 @@ you may confuse me now,
 but later you will make me less confused,
 I think...
 
+My skills in programming are being tested
+If only I were more awake and well rested
+Then this beginning file would not have me bested
 
 I prefer R,
 But python will help me go far
@@ -34,3 +37,4 @@ One two three four five
 Follow the steps
 of the GIT cookbook
 and make your fussy cake
+
