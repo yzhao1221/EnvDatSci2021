@@ -4,6 +4,8 @@ but later you will make me less confused,
 I think...
 
 
+That I am going to need a nap after using git.
+
 I fear that I will run out of time
 I'm typing so I don't get left behind
 
@@ -29,5 +31,3 @@ One two three four five
 Follow the steps
 of the GIT cookbook
 and make your fussy cake
-
-
