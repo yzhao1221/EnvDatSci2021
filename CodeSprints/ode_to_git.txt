@@ -3,6 +3,10 @@ you may confuse me now,
 but later you will make me less confused,
 I think...
 
+
+Co-coding a poem would be so fun,
+But if it fails I will impress no one.
+
 When I look at a blank sheet
 and think about git
 my mind becomes a blank
@@ -13,3 +17,4 @@ One two three four five
 Follow the steps
 of the GIT cookbook
 and make your fussy cake
+
