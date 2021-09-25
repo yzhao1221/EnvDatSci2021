@@ -1,10 +1,8 @@
 Oh git!
 you may confuse me now,
 but later you will make me less confused,
+
 I think...
 
 A journey of a thousand miles begins with a single step.
-More practices for git command.
-Test if it will work.
-
 
